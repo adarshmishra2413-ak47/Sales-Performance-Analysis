@@ -28,5 +28,6 @@ This repository contains a comprehensive data analysis and Excel dashboard creat
 ---
 
 ## 📁 Repository Files
-* `Sales_Dashboard_2025(ak).xlsx` - Complete Excel Workbook containing Raw Data, Data Cleaning, Pivot Tables, Assignment Answers, and Interactive Dashboard.
+* `Sales_Dashboard_2025(ak).xlsx` - Complete Excel Workbook with Data, Cleaning, Pivot Tables, and Interactive Dashboard.
+* `Data Analyst Assignment Report.docx` - Detailed Assignment Report.
 * `README.md` - Documentation of project workflow and findings.
